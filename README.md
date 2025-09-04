@@ -65,3 +65,5 @@ Training Dataset: COCO 2017
 Testing Dataset: Pascal VOC 2012
 Models: Faster R-CNN, Mask R-CNN, RetinaNet, Keypoint R-CNN, DETR, YOLOv8
 Evaluation Metrics: Precision, Recall, F1-score, mAP, IoU
+
+SCREENSHOTS: https://drive.google.com/drive/folders/1B16QTKhVF7yr5YsWVF9TMkfyy292qBsE?usp=sharing
